@@ -9,5 +9,8 @@ Large Language Models (LLMs) learn languages the same way as human children. Seq
 3. Cherokee_Elder_GPT -- compile stories from Cherokee elders and train the model to be the ultimate Elder. The keeper of stories, the grower of language. 
 4. An interactive farming game that interacts with you in Cherokee language, such that you learn words for the land, things Cherokee's based their language on, in an immersive (perhaps even AR/VR environment). I'm imagining an open-world game -- even like Red Dead Redemption, where you walk around, farm, ride, hunt, fish, speak, listen, and write. Imagine if there were a peaceful place you could go in a virtual world to be immersed in the culture 
 5. An actual Middlebury-style (or Middlebury-actual) language school for Cherokee. A school program with a language pledge meant for adults to go for 6-8 weeks and become fluent in a summer. Use scholarship money and do it during a time when its nice to be in Talequah. 
-
+6. Straight up what i want here -- documentaries only in Cherokee 
+7. Ah, technology to auto-recognize cherokee and produce subtitles in Syllabary -- check if this exists, but would be great contribution 
+8. A little ambitious, but perhaps a new type of writing system, or aid to the current Phonetics-Syllabary-English trio 
+9. Cherokee freestyle rap, slam poetry, music, lofi, documentary films
 
