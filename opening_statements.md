@@ -2,6 +2,8 @@
 2. Second, it is an app to make others fluent in Cherokee
 3. Third, it is an app to vastly increase the amount of Cherokee speech and text on the internet
 
+
+### Some Ideation
 Large Language Models (LLMs) learn languages the same way as human children. Sequoyah, the great giver of Cherokee text laid the groundwork for LLMs today to begin to read and understand Cherokee. Now, in the age of LLMs we can do something amazing. Surely this idea will evolve, however now i have a few ideas in mind. 
 
 1. CherokeeLLM Speaking Companion: trained on Sequoya's books and poems that can recite stories, and use OpenAI whisper or OpenAI whisper adjacent tools to serve as a speaking companion -- can converse etc with the user, like an Elder. Reciting Cherokee stories, also giving the user a modern use case for the language. Encouraging them to great music, poems, films in Cherokee. Give people the ability to learn, preserve, grow this language. This is the speaking companion. 
