@@ -1,5 +1,5 @@
 Sample Poem
-Here is a well-known Cherokee poem called "ᏙᎢᏳᏟᏙᎠ" (Doyutlidua), which means "Spring":
+"ᏙᎢᏳᏟᏙᎠ" (Doyutlidua):
 
 ᏙᎢᏳᏟᏙᎠ (Spring)
 ᏙᏓᏯ ᎤᏗᏞᎢᏗᏍᎪᎢ,
