@@ -20,5 +20,5 @@ Overview - Cherokee Language Technology https://www.youtube.com/watch?v=xyWlmUWw
 
 #### 
 DigitalNativeMaker:
-https://www.youtube.com/watch?v=11-Klcgii6w
-
+finalnumberipoded https://www.youtube.com/watch?v=11-Klcgii6w
+frogmoon https://www.youtube.com/watch?v=7gnKWA7efbQ
