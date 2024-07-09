@@ -1,3 +1,4 @@
+## Sequoyah GPT
 1. First, this is an app to make me fluent in Cherokee
 2. Second, it is an app to make others fluent in Cherokee
 3. Third, it is an app to vastly increase the amount of Cherokee speech and text on the internet
