@@ -4,7 +4,9 @@
 
 
 ### Some Ideation
-Large Language Models (LLMs) learn languages the same way as human children. Sequoyah, the great giver of Cherokee text laid the groundwork for LLMs today to begin to read and understand Cherokee. Now, in the age of LLMs we can do something amazing. Surely this idea will evolve, however now i have a few ideas in mind. 
+Large Language Models (LLMs) learn languages the same way as human children. Sequoyah, the great giver of Cherokee text, established the foundation for LLMs to begin to read and understand Cherokee. 
+
+Imagine a language program with one human-student, three student-LLM agents, and four subject-oriented teacher-LLM agents which rotate through a group class and one-on-one schedule. The program only permits the use of the target-language, and, outside of the classroom doors is an open-world Farmville meets Red Dead Redemption world. You can ride a horse to Apalachian rivers, where you can hunt, fish, farm, trade, lead, fight, learn, write, and speak. 
 
 1. CherokeeLLM Speaking Companion: trained on Sequoya's books and poems that can recite stories, and use OpenAI whisper or OpenAI whisper adjacent tools to serve as a speaking companion -- can converse etc with the user, like an Elder. Reciting Cherokee stories, also giving the user a modern use case for the language. Encouraging them to great music, poems, films in Cherokee. Give people the ability to learn, preserve, grow this language. This is the speaking companion. 
 2. Multi-Agent Cherokee Text debate sandbox. CherokeeLLM AutoGPT, MemGPT, Autogen, multi-agent group-chat sandbox. This is a longer term moon shot project to increase the amount of valid Cherokee on the internet by over 100 times or more. Multi-agent means multiple Cherokee Text LLMs with different interests, backgrounds, and points of view engaging in conversation, debate, poetry, authorship, etc. It will take experts to understand if the outputs are valid (valid as in correct Cherokee, also culturally in the correct ballpark, trained with a lower temperature on Cherokee stories, perhaps reciting them verbatim, then talking through the concepts together.)
@@ -15,4 +17,7 @@ Large Language Models (LLMs) learn languages the same way as human children. Seq
 7. Ah, technology to auto-recognize cherokee and produce subtitles in Syllabary -- check if this exists, but would be great contribution 
 8. A little ambitious, but perhaps a new type of writing system, or aid to the current Phonetics-Syllabary-English trio 
 9. Cherokee freestyle rap, slam poetry, music, lofi, documentary films
+10. Straight up the Cherokee version of Harvard's Chinese Text Project www.ctext.org/
 
+### Gathering Data 
+Data sources include YouTube, Cherokee Github repos -- will make a resources.md
