@@ -200,3 +200,29 @@ The Cherokee syllabary is a set of symbols used to write the Cherokee language. 
 | Ᏼ         | yv        |
 
 
+## Learning Activities
+
+Learn to Recite the Cherokee Syllabary https://www.youtube.com/watch?v=QIMZHJ3vzjE
+
+A printable syllabary chart https://language.cherokee.org/media/2qkmorwq/syllabary_handout.pdf
+
+Trace the Letters of the Cherokee Syllabary https://language.cherokee.org/media/2uvhommm/united_states.pdf
+
+Play Memory Games with Cherokee Syllabary Flashcards https://language.cherokee.org/media/de4jnp2h/flash_cards.pdf
+
+
+Study to Pass a Cherokee Syllabary Test https://language.cherokee.org/media/1uzopedr/syllabary_test.pdf
+
+Watch and Discuss the movie ‘First Language – The Race to Save Cherokee’
+
+## Other Video Resources
+‘Creating a Written Alphabet for the Cherokee,’ American Experience: PBS, 1:17 https://www.pbs.org/video/american-experience-creating-written-alphabet-cherokee/
+
+‘Investigating the Cherokee Syllabary,’ Cherokee Nation, 3:10 https://www.youtube.com/watch?v=H0OkSqsZnIw&t=6s
+
+‘First Language – The Race to Save Cherokee,’ The Language & Life Project, 56:08 https://www.youtube.com/watch?v=e9y8fDOLsO4
+
+‘The Cherokee Syllabary,’ The Language & Life Project, 3:14 https://www.youtube.com/watch?v=r3QKRzq5M5Y
+
+‘We’re Still Here: The Cherokee Syllabary,’ Smithsonian NMAI (National Museum of the American Indian), 1:33 https://www.youtube.com/watch?v=rSFAq3Z7a2g
+
