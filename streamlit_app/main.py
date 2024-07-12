@@ -29,7 +29,7 @@ st.write(lines[current_index])
 # Add tips for using memory techniques
 st.write("### Memory Techniques Tips")
 st.write("""
-- Visualize a familiar place.
+- Visualize a familiar place. - 
 - Associate each line with a specific location in that place.
 - Walk through the place in your mind to recall the lines in order.
 """)
